@@ -14,7 +14,7 @@ situation faced by the drivers. Inaccuracies in car insurance
 company’s claim predictions raise the cost of insurance for
 good drivers and reduce the price for bad ones.
 
-Project Outline
+PROJECT OUTLINE:
 
  PHASE 1: Exploratory Data Analysis
  
