@@ -17,8 +17,11 @@ good drivers and reduce the price for bad ones.
 Project Outline
 
  PHASE 1: Exploratory Data Analysis
+ 
  PHASE 2: Feature selection and engineering
+ 
  PHASE 3: Model building
+ 
  PHASE 4: Model selection and final submission
 
 Models used:
